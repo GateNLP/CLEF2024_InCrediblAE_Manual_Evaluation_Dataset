@@ -16,7 +16,7 @@ Manual evaluation dataset of CheckThat! Lab at CLEF 2024 Task 6: Robustness of C
 * annotator2_stance: semantic similarities stance from annotator 2 (0: Preserve the Meaning, 1: Change the Meaning, 2: No sense)
 * annotator2_confidence: confidence from annotator 2 (5:very confidnt, 1:not condident)
 * annotator3_stance: semantic similarities stance from annotator 3 (0: Preserve the Meaning, 1: Change the Meaning, 2: No sense)
-* annotator4_confidence: confidence from annotator 3 (5:very confidnt, 1:not condident)
+* annotator3_confidence: confidence from annotator 3 (5:very confidnt, 1:not condident)
 * agreed_labels: Label based on the majority votes
 
 ## Data Statistics(Based on agreed label):
