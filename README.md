@@ -26,4 +26,4 @@ Manual evaluation dataset of CheckThat! Lab at CLEF 2024 Task 6: Robustness of C
 * Cohen's Kappa = 0.5240984623870923
 
 ## Reference:
- 
+ Przybyła, Piotr, Ben Wu, Alexander Shvets, Yida Mu, Kim Cheng Sheang, Xingyi Song, and Horacio Saggion. "Overview of the CLEF-2024 CheckThat! lab task 6 on robustness of credibility assessment with adversarial examples (incrediblae)." Working Notes of CLEF (2024).
